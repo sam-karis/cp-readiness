@@ -10,4 +10,4 @@ I am self taught coder in the following :-
 * Python
 * Android   
     
-Beside my proffession as an aspiring andelan I am a seasoned farmer and a skilled handball player.
+Beside my profession as an aspiring andelan I am a seasoned farmer and a skilled handball player.
